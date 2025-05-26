@@ -14,11 +14,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Bem-vindo!",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
