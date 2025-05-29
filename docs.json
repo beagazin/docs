@@ -24,7 +24,8 @@
             "pages": [
               "geral/metodos-de-pagamento",
               "geral/dominio",
-              "geral/aplicativo"
+              "geral/aplicativo",
+              "geral/termos"
             ]
           }
         ]
