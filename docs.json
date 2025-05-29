@@ -33,21 +33,12 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "FiveM Development",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "FiveM Development",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "fivem-development/introduction"
             ]
           }
         ]
