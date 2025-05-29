@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentação",
+        "tab": "Introdução",
         "groups": [
           {
             "group": "Bem-vindo!",
@@ -23,7 +23,6 @@
             "group": "Geral",
             "pages": [
               "geral/metodos-de-pagamento",
-              "geral/dominio",
               "geral/aplicativo",
               "geral/termos",
               "geral/politicas"
