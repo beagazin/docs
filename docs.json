@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentação",
         "groups": [
           {
             "group": "Bem-vindo!",
@@ -24,7 +24,6 @@
             "pages": [
               "geral/metodos-de-pagamento",
               "geral/dominio",
-              "geral/documentacao-discord",
               "geral/aplicativo"
             ]
           }
@@ -36,7 +35,13 @@
           {
             "group": "FiveM Development",
             "pages": [
-              "fivem-development/introduction"
+              "fivem/criar-comandos",
+              "fivem/alterar-mensagens",
+              "fivem/alterar-inserts",
+              "fivem/agendar-comandos",
+              "fivem/framework-propria",
+              "fivem/criar-logs",
+              "fivem/guia-gerenciar-servidor"
             ]
           }
         ]
