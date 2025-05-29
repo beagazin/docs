@@ -25,7 +25,8 @@
               "geral/metodos-de-pagamento",
               "geral/dominio",
               "geral/aplicativo",
-              "geral/termos"
+              "geral/termos",
+              "geral/politicas"
             ]
           }
         ]
