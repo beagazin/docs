@@ -50,19 +50,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Nosso Discord",
+          "href": "https://discord.gg/DEhkVyCv8E",
+          "icon": "discord"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Nosso Instagram",
+          "href": "https://www.instagram.com/rexieoficial/",
+          "icon": "instagram"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Nosso WhatsApp",
+          "href": "https://wa.me/5531987731638",
+          "icon": "whatsapp"
         }
       ]
     }
