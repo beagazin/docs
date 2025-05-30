@@ -22,10 +22,24 @@
           {
             "group": "Geral",
             "pages": [
-              "geral/metodos-de-pagamento",
-              "geral/aplicativo",
-              "geral/termos",
-              "geral/politicas"
+              "pages/geral/metodos-de-pagamento",
+              "pages/geral/aplicativo",
+              "pages/geral/termos",
+              "pages/geral/politicas"
+            ]
+          },
+          {
+            "group": "Documentações",
+            "pages": [
+              "pages/documentacoes/fivem",
+              "pages/documentacoes/minecraft"
+            ]
+          },
+          {
+            "group": "Rexie",
+            "pages": [
+              "pages/suporte/suporte",
+              "pages/suporte/faq"
             ]
           }
         ]
@@ -36,13 +50,13 @@
           {
             "group": "FiveM Development",
             "pages": [
-              "fivem/criar-comandos",
-              "fivem/alterar-mensagens",
-              "fivem/alterar-inserts",
-              "fivem/agendar-comandos",
-              "fivem/framework-propria",
-              "fivem/criar-logs",
-              "fivem/guia-gerenciar-servidor"
+              "pages/fivem/criar-comandos",
+              "pages/fivem/alterar-mensagens",
+              "pages/fivem/alterar-inserts",
+              "pages/fivem/agendar-comandos",
+              "pages/fivem/framework-propria",
+              "pages/fivem/criar-logs",
+              "pages/fivem/guia-gerenciar-servidor"
             ]
           }
         ]
